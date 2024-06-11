@@ -2,6 +2,6 @@
   "version": 3,
   "sources": ["src/app/sidebar/sidebar.component.css"],
   "sourcesContent": ["ul li a {\n  text-decoration: none;\n  color: black;\n  opacity: 0.9;\n}\n"],
-  "mappings": ";AAAA,GAAG,GAAG;AACJ,mBAAiB;AACjB,SAAO;AACP,WAAS;AACX;",
+  "mappings": "AAAA,GAAG,GAAG,EACJ,gBAAiB,KACjB,MAAO,KACP,QAAS,EACX",
   "names": []
 }
