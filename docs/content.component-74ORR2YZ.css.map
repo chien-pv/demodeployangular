@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/content/content.component.css"],
+  "sourcesContent": [".empty {\n  opacity: 0.5;\n}\n"],
+  "mappings": "AAAA,CAAC,MACC,QAAS,EACX",
+  "names": []
+}
